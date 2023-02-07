@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+
+code/build/*
+!code/build/.gitkeep
+code/libs/*
+!code/libs/.gitkeep
+code/includes/*
+!code/includes/.gitkeep
+code/sources/*
+!code/sources/.gitkeep
+code/CMakeFiles
+code/CMakeCache.txt
+code/Makefile
+code/cmake_install.cmake
